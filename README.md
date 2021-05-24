@@ -6,7 +6,9 @@
 
 
 # Feedback
-- Feedback about website or telegram bot is welcome , if you find bugs or would like to see new features. Please raise an issue to start discussing them in this repository. [Discussion](https://github.com/mozhi-bateman/feedback/discussions) [Issue](https://github.com/mozhi-bateman/feedback/issues)
+- Feedback about website or telegram bot is welcome , if you find bugs or would like to see new features. Please raise an issue to start discussing them in this repository.   -
+   - [Discussion](https://github.com/mozhi-bateman/feedback/discussions) 
+   - [Issue](https://github.com/mozhi-bateman/feedback/issues)
 - Submit feedback from the form in [RadMozhi.com](https://radmozhi.com)
 
 
